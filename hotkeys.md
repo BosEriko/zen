@@ -1,6 +1,8 @@
 # Hotkeys
 Add the hotkeys [here](brave://settings/system/shortcuts).
 
+## Compact Mode
+- Toggle Floating Sidebar: `ctrl`+`\`
 ## Other Zen Features
 - Copy current URL: `ctrl`+`b`
 ## Window & Tab Management
@@ -14,3 +16,6 @@ Add the hotkeys [here](brave://settings/system/shortcuts).
 - Reload Page (Skip Cache): `ctrl`+`shift`+`r`
 ## Page  Operations
 - Open Location: `ctrl`+`p`
+
+# Tab Navigation Fix
+Currently there is no Next Tab or Previous Tab hotkey. For now I've added an app specific Karabiner adjustment. You can check out how to do it [here](https://github.com/boseriko/karabiner). Once it's available natively on Zen you should remove this adjustment.

@@ -14,8 +14,3 @@ Setup a few things with Zen.
 ### Excluded URLs and keys
 - `https?://mail.google.com/*` — `All`
 - `https?://jstris.jezevec10.com/*` — `All`
-### Custom key mappings
-```
-unmap T
-map <C-\> Vomnibar.activateTabSelection
-```
