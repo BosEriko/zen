@@ -1,5 +1,5 @@
 # Hotkeys
-Add the hotkeys [here](about:preferences).
+Add the hotkeys on `about:preferences#zenCKS`.
 
 ## Compact Mode
 - Toggle Floating Sidebar: `ctrl`+`\`
