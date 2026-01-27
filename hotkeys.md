@@ -1,5 +1,5 @@
 # Hotkeys
-Add the hotkeys [here](brave://settings/system/shortcuts).
+Add the hotkeys [here](about:preferences#zenCKS).
 
 ## Compact Mode
 - Toggle Floating Sidebar: `ctrl`+`\`
