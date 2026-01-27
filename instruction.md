@@ -20,4 +20,7 @@ map <C-\> Vomnibar.activateTabSelection
 
 unmap o
 map <C-p> Vomnibar.activate
+
+unmap O
+map <C-n> Vomnibar.activateInNewTab
 ```
