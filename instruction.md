@@ -5,6 +5,9 @@ Setup a few things with Zen.
 ### Passwords
 - [ ] Ask to save passwords
 
+## Tabs on the right
+To move the toolbar to the right, hover over an empty space inside it, right-click, then check `Tabs on the right`.
+
 ## Extensions
 - [AdGuard AdBlocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/)
 - [Proton Pass](https://addons.mozilla.org/en-US/firefox/addon/proton-pass/)
