@@ -5,6 +5,13 @@ Setup a few things with Zen.
 ### Passwords
 - [ ] Ask to save passwords
 
+## Disable Borders
+Disable borders by doing the following:
+- Open config by typing `about:config` in the address bar.
+- Click `Accept the Risk and Continue`.
+- Search for `zen.theme.content-element-separation` on the preference name.
+- Set it 0.
+
 ## Tabs on the right
 To move the toolbar to the right, hover over an empty space inside it, right-click, then check `Tabs on the right`.
 
