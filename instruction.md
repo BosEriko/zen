@@ -6,6 +6,7 @@ Setup a few things with Zen.
 - [ ] Ask to save passwords
 
 ## Extensions
+- [AdGuard AdBlocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/)
 - [Proton Pass](https://addons.mozilla.org/en-US/firefox/addon/proton-pass/)
 - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
 
