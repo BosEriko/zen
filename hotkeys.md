@@ -2,7 +2,7 @@
 Add the hotkeys on `about:preferences#zenCKS`.
 
 ## Compact Mode
-- Toggle Floating Sidebar: `ctrl`+`\`
+- Toggle Compact Mode: `ctrl`+`\`
 ## Other Zen Features
 - Copy current URL: `ctrl`+`b`
 ## Window & Tab Management
