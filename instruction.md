@@ -37,14 +37,22 @@ map <C-;> createTab https://jstris.jezevec10.com
 #lrem {
   color: white !important;
   margin-top: -380px !important;
-  margin-left: -160px !important;
+  margin-left: -255px !important;
   z-index: 999999 !important;
   position: absolute !important;
-  width: 50px !important;
-  height: 50px !important;
+  width: 241px !important;
   display: flex !important;
   justify-content: center !important;
-  align-items: center !important;
+  font-size: 100px;
+  text-shadow:
+    1px 1px 0 rgba(0,0,0,0.5),
+    -1px 1px 0 rgba(0,0,0,0.5),
+    1px -1px 0 rgba(0,0,0,0.5),
+    -1px -1px 0 rgba(0,0,0,0.5),
+    1px 0 0 rgba(0,0,0,0.5),
+    -1px 0 0 rgba(0,0,0,0.5),
+    0 1px 0 rgba(0,0,0,0.5),
+    0 -1px 0 rgba(0,0,0,0.5);
 }
 #sprintText {
   display: none !important;
