@@ -22,5 +22,8 @@ To move the toolbar to the right, hover over an empty space inside it, right-cli
 
 ## Vimium
 ### Excluded URLs and keys
-- `https?://mail.google.com/*` — `All`
 - `https?://jstris.jezevec10.com/*` — `All`
+### Custom key mappings
+```
+map <C-;> createTab https://jstris.jezevec10.com
+```
