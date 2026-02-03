@@ -19,6 +19,7 @@ To move the toolbar to the right, hover over an empty space inside it, right-cli
 - [AdGuard AdBlocker](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/)
 - [Proton Pass](https://addons.mozilla.org/en-US/firefox/addon/proton-pass/)
 - [Vimium](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/)
+- [Custom Style Script](https://addons.mozilla.org/en-US/firefox/addon/custom-style-script/)
 
 ## Vimium
 ### Excluded URLs and keys
@@ -26,4 +27,26 @@ To move the toolbar to the right, hover over an empty space inside it, right-cli
 ### Custom key mappings
 ```
 map <C-;> createTab https://jstris.jezevec10.com
+```
+
+## Custom Style Script
+### URL
+- `https://jstris.jezevec10.com/`
+### Style (CSS)
+```css
+#lrem {
+  color: white !important;
+  margin-top: -380px !important;
+  margin-left: -160px !important;
+  z-index: 999999 !important;
+  position: absolute !important;
+  width: 50px !important;
+  height: 50px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+#sprintText {
+  display: none !important;
+}
 ```
