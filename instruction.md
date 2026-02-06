@@ -26,7 +26,7 @@ To move the toolbar to the right, hover over an empty space inside it, right-cli
 - `https?://jstris.jezevec10.com/*` — `All`
 ### Custom key mappings
 ```
-map <C-;> createTab https://jstris.jezevec10.com
+map <C-;> createTab https://jstris.jezevec10.com/play/sprint/40
 ```
 
 ## Custom Style Script
